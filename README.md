@@ -1,4 +1,4 @@
-# Date :
+# Date : 22.10.26
 ## Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
 
 
@@ -16,7 +16,11 @@ ________________________________________
  Description:<br>
 •	PC0 → Switch0 → Router (FastEthernet0/0)<br>
 •	PC1 → Switch1 → Router (FastEthernet0/1)<br>
-(Insert screenshot of your Packet Tracer setup here)<br>
+
+
+
+<img width="1917" height="1198" alt="Screenshot 2026-10-22 161539" src="https://github.com/user-attachments/assets/a870fabb-a979-4c66-8ea4-7337974ed8cc" />
+
 ________________________________________
 # IP Addressing Table
 Device	Interface	IP Address	Subnet Mask<br>
@@ -55,7 +59,36 @@ ________________________________________
 •	Router CLI configuration<br>
 •	IP configurations on PCs<br>
 •	Successful ping between PC0 and PC1<br>
-________________________________________
+
+<img width="1918" height="1198" alt="Screenshot 2026-10-22 161635" src="https://github.com/user-attachments/assets/794e47e2-c24c-4b41-a880-29531406f7be" />
+
+
+<img width="1918" height="1197" alt="Screenshot 2026-10-22 161822" src="https://github.com/user-attachments/assets/235eb67c-4b72-4c16-9ef8-25cb9718f1d9" />
+
+<img width="1918" height="1195" alt="Screenshot 2026-10-22 161840" src="https://github.com/user-attachments/assets/ccc161b8-b6ec-4e8c-b8d0-c2345de23330" />
+
+
+
+<img width="1918" height="1198" alt="Screenshot 2026-10-22 161909" src="https://github.com/user-attachments/assets/f35683d2-1840-4a67-b611-a4a04daf6f8f" />
+
+
+<img width="1915" height="1193" alt="Screenshot 2026-10-22 161926" src="https://github.com/user-attachments/assets/255f5993-29b8-4665-b890-88c8ab3b8dd7" />
+
+
+<img width="1918" height="1198" alt="Screenshot 2026-10-22 162154" src="https://github.com/user-attachments/assets/48eb017b-bfd1-41e0-bdfb-280caa785806" />
+
+
+______________________________________
+
+
+
+
+
 # Result
+
+
+
+
+
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
 
